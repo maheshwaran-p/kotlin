@@ -1,0 +1,11 @@
+fun main(args: Array<String>) {
+    
+    
+    var nums: IntArray = intArrayOf(4, 5, -5, 12);
+var index: Int = 0;
+while (index < 4) {
+  println("Value: ${nums[index]}");
+  ++index;
+} 
+    
+}

@@ -1,0 +1,8 @@
+fun main(args: Array<String>) {
+    
+    
+    fun main(args: Array<String>) {
+  val test = readLine();
+  println("Your input is $test");
+}
+}

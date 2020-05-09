@@ -1,0 +1,9 @@
+fun main(args: Array<String>) {
+  var name: String;
+  var age: Int;
+  println("Please insert your name and age");
+  name = readLine()!!;
+  age = readLine()!!.toInt();
+    
+  println("Hi $name, you are $age years old");
+} 
